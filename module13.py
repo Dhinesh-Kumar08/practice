@@ -8,13 +8,24 @@ print(a, type(a))
 b = "Hello world"
 print(a, type(a))
 
+a = 'Arnold said -\"I will be back" and we watched'
+print(a)
+
 a = "Arnold said -'I will be back' and we watched"
 print(a)
 
+print()
+install_path = 'path'
+print(install_path)
+
+a = 'I\'ll be back'
+print(a)
+
+a = "I'll be back"
+print(a)
 
 
-
-
+a = "this is a test "
 
 
 
